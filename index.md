@@ -22,21 +22,21 @@ Email: fbyramji at ucsd dot edu
 - **Lower Bounds for Bit Pigeonhole Principles in Bounded-Depth Resolution over Parities**  
   with Russell Impagliazzo  
   Manuscript, 2025  
-  \[ [arXiv](https://arxiv.org/abs/2511.20023) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/118/)\]
+  \[[arXiv](https://arxiv.org/abs/2511.20023) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/118/)\]
 
 - **Lifting to Randomized Parity Decision Trees**  
   with Russell Impagliazzo  
   [RANDOM 2025](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2025.55)  
-  \[ [ECCC](https://eccc.weizmann.ac.il/report/2024/202/) \]
+  \[[ECCC](https://eccc.weizmann.ac.il/report/2024/202/)\]
 
 - **Relations between monotone complexity measures based on decision tree complexity**  
   with Vatsal Jha, Chandrima Kayal, and Rajat Mittal  
   [COCOON 2024](https://doi.org/10.1007/978-981-96-1090-7_11)  
-  \[ [arXiv](https://arxiv.org/abs/2406.07859) \| [ECCC](https://eccc.weizmann.ac.il/report/2024/103/) \]
+  \[[arXiv](https://arxiv.org/abs/2406.07859) \| [ECCC](https://eccc.weizmann.ac.il/report/2024/103/)\]
 
 - **Query complexity of Boolean functions on slices**  
   [Discrete Mathematics, 2024](https://doi.org/10.1016/j.disc.2024.113954)  
-  \[ [arXiv](https://arxiv.org/abs/2211.16402) \]
+  \[[arXiv](https://arxiv.org/abs/2211.16402)\]
 
 - **A bijection between symmetric valleys in Dyck paths and even degree internal vertices in ordered trees**  
   [INTEGERS, 2022](https://math.colgate.edu/~integers/w35/w35.pdf)  
