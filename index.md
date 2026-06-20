@@ -18,11 +18,31 @@ Email: fbyramji at ucsd dot edu
 <div style="clear:both;"></div>
 
 ## Research
+- **On the Advantage of Adaptivity for Sampling with Cell Probes**  
+  with Daniel M. Kane, Jackson Morris and Anthony Ostuni  
+  Manuscript, 2026  
+  \[[arXiv](https://arxiv.org/abs/2605.12873) \| [ECCC](https://eccc.weizmann.ac.il/report/2026/075/)\]
 
-- **Lower Bounds for Bit Pigeonhole Principles in Bounded-Depth Resolution over Parities**  
-  with Russell Impagliazzo  
-  Manuscript, 2025  
-  \[[arXiv](https://arxiv.org/abs/2511.20023) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/118/)\]
+- **Hard-to-Sample Distributions from Robust Extractors**  
+  with Daniel M. Kane, Jackson Morris and Anthony Ostuni  
+  Manuscript, 2026  
+  \[[arXiv](https://arxiv.org/abs/2604.26179) \| [ECCC](https://eccc.weizmann.ac.il/report/2026/081/)\]
+
+- **Quantum-Classical Equivalence for AND-Functions**  
+  with Sreejata K. Bhattacharya, Arkadev Chattopadhyay, Yogesh Dahiya, and Shachar Lovett  
+  CCC 2026  
+  \[[arXiv](https://arxiv.org/abs/2606.03249) \| [ECCC](https://eccc.weizmann.ac.il/report/2026/013/)\]
+
+- **Lower Bounds for Near-Quadratic-Depth Resolution over Parities**  
+  with Sreejata K. Bhattacharya, Arkadev Chattopadhyay, and Russell Impagliazzo  
+  [STOC 2026](https://doi.org/10.1145/3798129.3800809)  
+  This is a merger of the following two papers:  
+    - **Exponential Lower Bounds on the Size of ResLin Proofs of Nearly Quadratic Depth**  
+      Sreejata K. Bhattacharya, Arkadev Chattopadhyay  
+      \[[arXiv](https://www.arxiv.org/abs/2507.23008) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/106)\]  
+    - **Lower Bounds for Bit Pigeonhole Principles in Bounded-Depth Resolution over Parities**  
+      Farzan Byramji, Russell Impagliazzo  
+      \[[arXiv](https://arxiv.org/abs/2511.20023) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/118/)\]
 
 - **Lifting to Randomized Parity Decision Trees**  
   with Russell Impagliazzo  
