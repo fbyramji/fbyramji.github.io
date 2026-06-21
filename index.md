@@ -36,7 +36,7 @@ Email: fbyramji at ucsd dot edu
 - **Lower Bounds for Near-Quadratic-Depth Resolution over Parities**  
   with Sreejata K. Bhattacharya, Arkadev Chattopadhyay, and Russell Impagliazzo  
   [STOC 2026](https://doi.org/10.1145/3798129.3800809)  
-  This is a merger of the following two papers:  
+  Merge of the following two papers:  
     - **Exponential Lower Bounds on the Size of ResLin Proofs of Nearly Quadratic Depth**  
       Sreejata K. Bhattacharya, Arkadev Chattopadhyay  
       \[[arXiv](https://www.arxiv.org/abs/2507.23008) \| [ECCC](https://eccc.weizmann.ac.il/report/2025/106)\]  
