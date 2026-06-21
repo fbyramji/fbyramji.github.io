@@ -19,12 +19,12 @@ Email: fbyramji at ucsd dot edu
 
 ## Research
 - **On the Advantage of Adaptivity for Sampling with Cell Probes**  
-  with Daniel M. Kane, Jackson Morris and Anthony Ostuni  
+  with Daniel M. Kane, Jackson Morris, and Anthony Ostuni  
   Manuscript, 2026  
   \[[arXiv](https://arxiv.org/abs/2605.12873) \| [ECCC](https://eccc.weizmann.ac.il/report/2026/075/)\]
 
 - **Hard-to-Sample Distributions from Robust Extractors**  
-  with Daniel M. Kane, Jackson Morris and Anthony Ostuni  
+  with Daniel M. Kane, Jackson Morris, and Anthony Ostuni  
   Manuscript, 2026  
   \[[arXiv](https://arxiv.org/abs/2604.26179) \| [ECCC](https://eccc.weizmann.ac.il/report/2026/081/)\]
 
